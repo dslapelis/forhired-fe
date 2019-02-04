@@ -6,13 +6,13 @@
 
 <script>
 // @ is an alias to /src
-import HomeTop from "@/components/Home/HomeTop.vue";
+import HomeTop from '@/components/Home/HomeTop.vue';
 
 export default {
-  name: "home",
+  name: 'home',
   components: {
-    HomeTop
-  }
+    HomeTop,
+  },
 };
 </script>
 

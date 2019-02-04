@@ -1,4 +1,6 @@
 # forhired
+Viewable at http://forhired.s3-website-us-east-1.amazonaws.com/
+Check out https://github.com/wegotthekeys/forhired-be for mockups and backend code
 
 ## Project setup
 ```
